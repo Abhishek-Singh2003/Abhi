@@ -149,7 +149,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TejaNaik15&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0.26&langs_count=10000000&size_weight=0.26&count_weight=0.26)](https://github-readme-stats.vercel.app/api/top-langs/?username=TejaNaik15&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0.26&langs_count=10000000&size_weight=0.3&count_weight=0.26)
 
 <div>
-    <picture>
+    <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TejaNaik15&theme=github-dark-dimmed&hide_border=true&bg_color=0d1117&color=7FD957&line=7FD957&point=7FD957" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TejaNaik15&theme=github-dark-dimmed&hide_border=true&bg_color=0d1117&color=7FD957&line=7FD957&point=7FD957" />
       <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TejaNaik15&theme=github-dark-dimmed&hide_border=true&bg_color=0d1117&color=7FD957&line=7FD957&point=7FD957" alt="TejaNaik15's contribution graph" />
